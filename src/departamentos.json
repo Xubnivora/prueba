@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Alta Verapaz",
+        "code": "16",
+        "items": [
+            { "label": "Chahal", "value": "1601" },
+            { "label": "Chisec", "value": "1602" },
+            { "label": "Cobán", "value": "1603" },
+            { "label": "Fray Bartolomé de las Casas", "value": "1604" }
+        ]
+    },
+    {
+        "label": "Guatemala",
+        "code": "01",
+        "items": [
+            { "label": "GUATEMALA", "value": "0101" },
+            { "label": "SANTA CATARINA PINULA", "value": "0102" },
+            { "label": "SAN JOSE PINULA", "value": "0103" },
+            { "label": "SAN JOSE DEL GOLFO ", "value": "0103" }
+        ]
+    }
+]
